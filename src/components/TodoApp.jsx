@@ -1,14 +1,13 @@
-
 import '../styles/TodoApp.css'
 
-function App() {
+function TodoApp() {
   
 
   return (
-    <div className="App">
-      <h1>hola mundo</h1>
+    <div className="TodoContainer">
+    <h1>Hola</h1>
     </div>
   )
 }
 
-export default App
+export default TodoApp;
